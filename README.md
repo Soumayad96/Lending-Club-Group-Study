@@ -24,7 +24,7 @@
 >> 2. Indentify the driving factors or variables for the loan application.
 
 - Data to be analyzed
->> Lending Club dataset provided which contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+>> Lending Club dataset provided which contains the complete loan data for all loans issued through the time period 2007 to 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
