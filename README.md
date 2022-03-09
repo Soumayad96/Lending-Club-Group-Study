@@ -32,9 +32,9 @@
 - The below conslusions are based on the above analysis based on Fully Paid and Charged Off loans and default rate. Conclusions as follows:
 > - Chances of being a Defaulter or getting Charged off is very high when purpose of the loan is for small business.
 > - Chances of being a Defaulter or getting Charged off increase with the interest rate of the loans.higher the interest rate, high chances of being charged off and vice-versa.
-> - Applicants who have taken a loan for small business and the loan amount is greater than 14k have high probablity of getting defaulted.
-> - Applicants who have taken a loan in the range 14k - 16k and taken loan for 60months term have high probablity of getting defaulted.
-> - Applicants with from than 8 years more employment experience and applied for loan amount above 14k have high probablity of getting defaulted .
+> - Applicants who have taken a loan for small business and the loan amount is greater than 14k have high probability of getting defaulted.
+> - Applicants who have taken a loan in the range 14k - 16k and taken loan for 60months term have high probability of getting defaulted.
+> - Applicants with from than 8 years more employment experience and applied for loan amount above 14k have high probability of getting defaulted .
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
